@@ -1,0 +1,25 @@
+{
+  "week": "2026-W44",
+  "items": [
+    {
+      "program": "alpha",
+      "state": "retesting",
+      "tags": ["duplicate", "payout"]
+    },
+    {
+      "program": "alpha",
+      "state": "triage-response",
+      "tags": ["severity", "impact"]
+    },
+    {
+      "program": "beta",
+      "state": "report-writing",
+      "tags": ["evidence", "reproduction"]
+    },
+    {
+      "program": "beta",
+      "state": "follow-up",
+      "tags": ["escalation", "disclosure"]
+    }
+  ]
+}
